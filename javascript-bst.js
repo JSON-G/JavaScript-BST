@@ -3,6 +3,10 @@
  * @param {(string[]|number[])} sorted_array - the sorted array to be searched from
  * @param {(string|number)} target - the value to be searched for
  * @param {string} sorted_array_order - 'asc' or 'desc'. defaults to 'asc'
+ * @returns {Object} object - returns an object
+ * @returns {boolean} object.found - Whether the target was found in the array.
+ * @returns {number} object.iteration - Iterations that occured until the target was found or until the whole tree was traversed.
+ * @returns {string} object.message - Additional message to inform if the function executed successfully.
  * @author JSON-G https://github.com/JSON-G/JavaScript-BST
  */
 function searchSortedArray(sorted_array, target, sorted_array_order = "asc") {
