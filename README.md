@@ -3,7 +3,7 @@ A lightweight JavaScript function to search through a sorted array using Binary 
 
 <h3>Installation</h3>
 
-<p>The function resides is at <a href="https://github.com/JSON-G/JavaScript-BST/blob/master/javascript-bst.js" target="_blank"><code>javascript-bst.js</code></a>. Simply include the function in your project.</p>
+<p>The function resides at <a href="https://github.com/JSON-G/JavaScript-BST/blob/master/javascript-bst.js" target="_blank"><code>javascript-bst.js</code></a>. Simply include the function in your project.</p>
 
 <h3>Sample usage:</h3>
 
